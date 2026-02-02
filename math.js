@@ -22,3 +22,6 @@ console.log(Math.random()*100); // output: random number between 0 and 100
 
 const rand = Math.round(Math.random()*10);
 console.log(rand);
+
+console.log(Math.pow(2, 3)); // 2^3 = 8
+console.log(Math.sqrt(64)); // 8
