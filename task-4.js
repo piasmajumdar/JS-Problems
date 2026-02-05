@@ -17,4 +17,4 @@ function findLongestWord(str) {
 
 const inputString = "I am learning Programming to become a programmer";
 const longestWord = findLongestWord(inputString);
-console.log(`The longest word in the given string is: ${longestWord}`);
+console.log(`The longest word in the given string is: ${longestWord}`); 
