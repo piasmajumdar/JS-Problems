@@ -5,3 +5,4 @@ function getRandomNumber(min, max) {
 }
 
 console.log(getRandomNumber(10, 20));
+console.log(getRandomNumber(10, 50));
